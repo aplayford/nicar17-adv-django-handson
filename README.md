@@ -1,3 +1,4 @@
 # nicar17-adv-django-working
-repo for nicar 2017 advanced django class
-# nicar17-adv-django-handson
+For the first portion of the class, where we’re doing “type along,” here's a link to the working repo so you can copy-paste code: https://github.com/aplayford/nicar17-adv-django-working/ 
+
+Adam
